@@ -31,8 +31,27 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+   
+<img width="1362" height="545" alt="image" src="https://github.com/user-attachments/assets/02fede16-ad42-4213-b2c4-b0ac02131bc3" />
+
+
+    
+<img width="847" height="599" alt="image" src="https://github.com/user-attachments/assets/b2e223c0-b9f5-4825-b61c-54794a47a114" />
+
+<img width="822" height="605" alt="image" src="https://github.com/user-attachments/assets/1c436a2b-3cb2-4664-af06-4013025b0511" />
+
+<img width="807" height="636" alt="image" src="https://github.com/user-attachments/assets/a9db1ae8-376f-45cc-b51f-9543c59c33f5" />
+
+<img width="820" height="637" alt="image" src="https://github.com/user-attachments/assets/1806bfd5-92a5-4286-9318-bdb3b7c89f6c" />
+
+<img width="853" height="607" alt="image" src="https://github.com/user-attachments/assets/671e8fb1-a526-4b7a-8c22-fc005e81f596" />
+
+<img width="805" height="642" alt="image" src="https://github.com/user-attachments/assets/6f28b13e-39fe-4b18-9910-ef4348c50e37" />
+
+<img width="843" height="647" alt="image" src="https://github.com/user-attachments/assets/1d4bb7a7-3175-4128-ba2e-7308d7fb1bb8" />
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
 
        
