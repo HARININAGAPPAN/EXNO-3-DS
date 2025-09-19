@@ -35,8 +35,8 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="1362" height="545" alt="image" src="https://github.com/user-attachments/assets/02fede16-ad42-4213-b2c4-b0ac02131bc3" />
 
 
-    
-<img width="847" height="599" alt="image" src="https://github.com/user-attachments/assets/b2e223c0-b9f5-4825-b61c-54794a47a114" />
+    ![WhatsApp Image 2025-09-19 at 16 22 16_b6291ab5](https://github.com/user-attachments/assets/b95b9503-4587-409e-bec1-e2d726a8564a)
+
 
 <img width="822" height="605" alt="image" src="https://github.com/user-attachments/assets/1c436a2b-3cb2-4664-af06-4013025b0511" />
 
